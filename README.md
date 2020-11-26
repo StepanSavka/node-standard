@@ -795,6 +795,4 @@ and an awesome list of
 
 The `standard` team and community take all security bugs in `standard` seriously. Please see our [security policies and procedures](https://github.com/standard/.github/blob/master/SECURITY.md) document to learn how to report issues.
 
-## License
 
-[MIT](LICENSE). Copyright (c) [Feross Aboukhadijeh](https://feross.org).
